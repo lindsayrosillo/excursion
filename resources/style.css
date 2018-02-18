@@ -1,4 +1,4 @@
-html {
+body {
   background-color: black;
 }
 .download {
@@ -11,4 +11,7 @@ h1 {
   font-weight: normal;
   color: white;
   text-align: center;
+}
+.videos {
+  align-content: center;
 }
