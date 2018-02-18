@@ -1,0 +1,14 @@
+html {
+  background-color: black;
+}
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+h1 {
+  font-size: 50px;
+  font-family: Verdana, sans-serif;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
